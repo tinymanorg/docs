@@ -7,7 +7,7 @@ description: >-
 
 # Known Issues
 
-### Current Version ([V1.1](../contracts.md#version-1.1))
+### Latest Version ([V1.1](../contracts.md#version-1.1))
 
 There are currently no known issues.
 

@@ -27,11 +27,11 @@ The Tinyman contracts consist of a single stateful smart contract (the **Validat
 * Contains logic to ensure only transactions part of expected transaction groups are signed
 * Delegates most logic responsibility to the Validator app by ensuring the transaction group contains a call to the Validator App with appropriate arguments
 
-### Version 1.1
+### Version 1.1 (Release Candidate)
 
 Source Code: [https://github.com/tinymanorg/tinyman-contracts-v1/tree/8be3e7f8005bb131c51e10e82885a8e764d7a336](https://github.com/tinymanorg/tinyman-contracts-v1/tree/8be3e7f8005bb131c51e10e82885a8e764d7a336)
 
-Mainnet Validator App ID:&#x20;
+Mainnet Validator App ID: Not yet deployed
 
 Testnet Validator App ID: [57743973](https://testnet.algoexplorer.io/application/57743973)&#x20;
 

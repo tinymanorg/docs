@@ -1,5 +1,9 @@
 # 2021-11-12 - Pool overflow errors
 
+{% hint style="warning" %}
+This issue applies only to a previous version of the contracts ([V1.0](../contracts.md#version-1.0))
+{% endhint %}
+
 ### The Problem
 
 We have discovered that some small pools in Tinyman have become stuck and unable to process swaps/mints/burns. This happens because of an overflow error in the calculations in the contracts when the price (asset ratio) is extremely high. This currently affects pools with a price ratio greater than 10,000,000:1, in the microunits of the assets.

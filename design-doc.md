@@ -24,8 +24,8 @@ This document outlines the design for a permissionless distributed exchange on A
 * The AMM will be a [constant product market maker](https://github.com/runtimeverification/verified-smart-contracts/blob/uniswap/uniswap/x-y-k.pdf), like Uniswap.
 * The Pools hold assets in a 50/50 ratio.
 * The AMM will allow exchange between pairs of Algorand Standard Assets (ASAs) or ASA and Algo.
-* The ASAs are have high liquidity - a large total supply (not NFTs or collectables).
-* The minimum swap size is expected to be 1000 microunits.
+* The ASAs should have high liquidity - a large total supply (not NFTs or collectables).
+* The minimum swap/mint/burn size is expected to be 1000 microunits.
 * A percentage based fee is charged on every trade, called the swap fee. This fee increases a Pool’s liquidity and benefits liquidity providers (Poolers).
 
 ### Users <a href="#docs-internal-guid-cedc7258-7fff-7f6b-a90f-41441302267f" id="docs-internal-guid-cedc7258-7fff-7f6b-a90f-41441302267f"></a>

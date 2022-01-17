@@ -10,6 +10,7 @@
 * [Fees](fees.md)
 * [Tinyman Testnet](tinyman-testnet.md)
 * [Disclaimer](disclaimer.md)
+* [Security](security.md)
 
 ## Integration
 

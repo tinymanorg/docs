@@ -50,16 +50,12 @@ That's great. That's what Testnet is for. Please let us know in Discord/Telegram
 
 ### I think I found a contract vulnerability! What should I do?
 
-That's not so great. But that's also what Testnet is for. We suggest the following approach if possible:
+That's not so great. Please DO NOT exploit the vulnerbility on testnet if possible. Please test it on a private network where the transactions will not be seen by others.
 
-* Create a new pool with your own ASAs
-* Perform the attack on that pool.&#x20;
-* Send an email to security@tinyman.org with a description and the relevant transaction IDs.
-
-In any case please email us at security@tinyman.org with the details of any possible vulnerability you find.
+Please email us at security@tinyman.org with the details of any possible vulnerability you find with specific references to the source code. DO NOT use this email for UI issues.
 
 ### Where are the contracts?
 
 For technical users wishing to create an integration or examine the transactions:\
-The stateful [Validator App](design-doc.md#docs-internal-guid-b18fd459-7fff-aa47-087b-2bcfdededbc5) Id is currently [21580889](https://testnet.algoexplorer.io/application/21580889).\
+The stateful [Validator App](design-doc.md#docs-internal-guid-b18fd459-7fff-aa47-087b-2bcfdededbc5) Id is currently [62368684](https://testnet.algoexplorer.io/application/62368684).\
 See [Contracts](contracts.md) for more details including links to the annotated source and audits.

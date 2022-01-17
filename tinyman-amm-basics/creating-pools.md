@@ -10,6 +10,5 @@ There are some important considerations when creating a pool:
 * Assets in pools should NOT be collectables, NFTs, or similar assets with low total supply.
 * The system is designed with the expectation that the minimum input and output amount of a swap is 1000 microunits.
 * A small quantity of each asset is permanently locked in the pool. This amount is displayed the first time liquidity is added.
-* The expected ratio of the assets in their microunits should not exceed 1,000,000:1 to prevent the issues described [here](../known-issues/2021-11-12-pool-overflow-errors.md).&#x20;
 * The initial liquidity must be provided at an appropriate ratio that matches the market rates to avoid losses to arbitrage.
 

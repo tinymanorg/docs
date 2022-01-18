@@ -5,11 +5,12 @@
   * [Creating Pools](tinyman-amm-basics/creating-pools.md)
   * [Slippage & Excess](tinyman-amm-basics/slippage-and-excess.md)
 * [FAQ](faq.md)
+* [Fees](fees.md)
 * [Design Doc](design-doc.md)
 * [Contracts](contracts.md)
-* [Fees](fees.md)
 * [Tinyman Testnet](tinyman-testnet.md)
 * [Disclaimer](disclaimer.md)
+* [Audits](audits.md)
 * [Security](security.md)
 
 ## Integration

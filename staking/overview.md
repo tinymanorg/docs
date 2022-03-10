@@ -47,5 +47,14 @@
 * When users successfully complete cycles, their rewards will gradually accumulate in the “Rewards to be Distributed” section. Here, users will see the rewards they earned but not yet transferred to their accounts.
 * Rewards to be Distributed will be (automatically) sent by the program manager to the stakers within 7-days, then it will be shown as Paid Rewards. Users do not need to claim them.
 
-\
+#### What are the risks? <a href="#docs-internal-guid-d45df23a-7fff-7bd0-e94e-36d8f2749715" id="docs-internal-guid-d45df23a-7fff-7bd0-e94e-36d8f2749715"></a>
+
+* There are no additional risks by participating in the staking program because users' pool tokens never leave their account.
+* The usual risks of providing liquidity to AMM pools apply as always.
+
+#### What is the commitment transaction ?
+
+* The commitment transaction is an Application Call that records the users' commitment on-chain if it is valid and meets the requirements of the program.
+* As with all Algorand Application Call transactions, it cannot transfer users' funds or take authority of users' accounts.
+
 \

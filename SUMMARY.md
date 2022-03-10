@@ -28,6 +28,10 @@
 * [Official SDKs](integration/official-sdks.md)
 * [Community SDKs](integration/community-sdks.md)
 
+## Staking
+
+* [Overview](staking/overview.md)
+
 ***
 
 * [Tinyman Presentations](tinyman-presentations.md)

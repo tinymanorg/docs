@@ -35,7 +35,8 @@ description: Claim back 'change' due to slippage in Mint/Burn/Swap process.
     "snd": "{POOL_ADDRESS}",
     "apid": {VALIDATOR_APP_ID},
     "apan": 0, // OnComplete: NoOp
-    "apaa": ['cmVkZWVt'] // ['redeem']
+    "apaa": ['cmVkZWVt'], // ['redeem']
+    "apas": [{ASSET1_ID}, {ASSET2_ID}, {LIQUIDITY_ASSET_ID}], // or just [{ASSET1_ID}, {LIQUIDITY_ASSET_ID}] if asset 2 is Algo
     "apat": [{POOLER/SWAPPER_ADDRESS}],
     "fee": 1000,
     ...

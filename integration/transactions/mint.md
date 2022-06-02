@@ -36,6 +36,7 @@ description: Mint Pool assets in exchange for transferring assets to the Pool ac
     "apid": {VALIDATOR_APP_ID},
     "apan": 0, // OnComplete: NoOp
     "apaa": ['bWludA=='], // ['mint']
+    "apas": [{ASSET1_ID}, {ASSET2_ID}, {LIQUIDITY_ASSET_ID}], // or just [{ASSET1_ID}, {LIQUIDITY_ASSET_ID}] if asset 2 is Algo
     "apat": [{POOLER_ADDRESS}],
     "fee": 1000,
     ...

@@ -38,6 +38,7 @@ description: Swap one asset (ASA or Algo) for another with the Pool.
     "apid": {VALIDATOR_APP_ID},
     "apan": 0, // OnComplete: NoOp
     "apaa": ['c3dhcA==', 'Zmk=' or 'Zm8='], // ['swap', 'fi' (fixed-input) or 'fo' (fixed-output)]
+    "apas": [{ASSET1_ID}, {ASSET2_ID}, {LIQUIDITY_ASSET_ID}], // or just [{ASSET1_ID}, {LIQUIDITY_ASSET_ID}] if asset 2 is Algo
     "apat": [{SWAPPER_ADDRESS}],
     "fee": 1000,
     ...

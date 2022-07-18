@@ -17,7 +17,7 @@ description: Claim back 'change' due to slippage in Mint/Burn/Swap process.
    "type": "pay",
    "rcv": "{POOL_ADDRESS}",
    "snd": "{POOLER/SWAPPER_ADDRESS",
-   "amt": 3000,
+   "amt": 2000,
    "fee": 1000,
    ...
   },

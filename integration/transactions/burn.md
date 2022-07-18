@@ -35,6 +35,7 @@ description: Burn Pool liquidity assets in exchange for removing assets from the
     "apid": {VALIDATOR_APP_ID},
     "apan": 0, // OnComplete: NoOp
     "apaa": ['YnVybg=='], // ['burn']
+    "apas": [{ASSET1_ID}, {ASSET2_ID}, {LIQUIDITY_ASSET_ID}], // or just [{ASSET1_ID}, {LIQUIDITY_ASSET_ID}] if asset 2 is Algo
     "apat": [{POOLER_ADDRESS}],
     "fee": 1000,
     ...

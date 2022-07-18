@@ -39,8 +39,8 @@ description: >-
     "snd": "{POOL_ADDRESS}",
     "apid": {VALIDATOR_APP_ID},
     "apan": 1, // OnComplete: OptIn
-    "apaa": ['Ym9vdHN0cmFw', '{ASSET1_ID}', '{ASSET2_ID}'] // ['bootstrap', asset1ID, asset2ID]
-    "apas": [{ASSET1_ID}, {ASSET1_ID}] // or just [{ASSET1_ID}] if asset 2 is Algo
+    "apaa": ['Ym9vdHN0cmFw', '{ASSET1_ID}', '{ASSET2_ID}'], // ['bootstrap', asset1ID, asset2ID]
+    "apas": [{ASSET1_ID}, {ASSET2_ID}], // or just [{ASSET1_ID}] if asset 2 is Algo
     "fee": 1000,
     ...
   },

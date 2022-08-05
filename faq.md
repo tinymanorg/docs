@@ -181,7 +181,9 @@ The Tinyman SDK/Web App will calculate these based on the Swapper input amounts 
 
 ## How does Tinyman mark Assets as Verified?
 
-Tinyman does not "Verify" any Asset and does not play any role in the verification process. This process is done by Algorand. Tinyman only pulls this verification information from the Algorand Wallet. Beware that Algorand's official verification mark is different than the verification mark in [http://algoexplorer.io](http://algoexplorer.io).
+Tinyman does not "Verify" any Asset and does not play any role in the verification process. This process is carried out by Pera Wallet. Tinyman pulls all verification information from Pera Wallet. Check out Pera Wallet's verification program [here](https://explorer.perawallet.app/asa-verification/).
+
+Note that there is another verification program by Algoexplorer.io and it is not connected to Pera Wallet's verification system or the information that appears on Tinyman.
 
 ## **What is impermanent loss?**
 

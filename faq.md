@@ -59,7 +59,7 @@ A Swapper may swap assets with the Tinyman pools using either of three methods:
 
 1. Manually/programatically creating, signing and submitting a set of transactions that satisfy the smart contracts
 2. Signing and submitting the transactions created by the helper functions of the Tinyman JS library
-3. Using the web app interface to do the swap, signing the transactions with a wallet browser extension
+3. Using the web app interface to do the swap, signing the transactions with a wallet browser extension. Current available wallets and browser extensions are [Pera Wallet](https://perawallet.app/), [My Algo Wallet](https://wallet.myalgo.com/), [Exodus Wallet](https://www.exodus.com/), [Defly](https://defly.app/), [Fireblocks](https://www.fireblocks.com/) and other WalletConnect and AlgoSigner compatible wallets.
 
 ## How does a Pooler interact with Tinyman?
 
@@ -181,7 +181,7 @@ The Tinyman SDK/Web App will calculate these based on the Swapper input amounts 
 
 ## How does Tinyman mark Assets as Verified?
 
-Tinyman does not "Verify" any Asset and does not play any role in the verification process. This process is done by Algorand. Tinyman only pulls this verification information from the Algorand Wallet. Beware that Algorand's official verification mark is different than the verification mark in [http://algoexplorer.io](http://algoexplorer.io).
+Tinyman does not "Verify" any Asset and does not play any role in the verification process. This process is done by Algorand. Tinyman only pulls this verification information from the Algorand Wallet. Beware that Algorand's official verification mark is different than the verification mark in [http://algoexplorer.io](http://algoexplorer.io/).
 
 ## **What is impermanent loss?**
 

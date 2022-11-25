@@ -4,13 +4,20 @@ description: The Tinyman Docs
 
 # Overview
 
-[Tinyman](https://tinyman.org) is a next-generation decentralized AMM on the Algorand blockchain.
+[Tinyman](https://tinyman.org/) is a next-generation decentralized AMM on the Algorand blockchain.
 
 {% hint style="info" %}
 Tinyman is live on Algorand Mainnet. See [app.tinyman.org](https://app.tinyman.org)
 {% endhint %}
 
-**Website**: [https://tinyman.org/](https://tinyman.org)****\
+Tinyman announced the AMM v2.0 protocol. Please refer to the links below for more details:\
+\
+**Blog about V2.0 Protocol:** [**Tinyman Medium**](https://medium.com/@tinymanorg/tinyman-amm-v2-0-protocol-201e0f32f58d) **** \
+**Tinyman AMM V2.0 Protocol Specification:** [**Tinyman GitHub**](https://github.com/tinymanorg/tinyman-amm-contracts-v2/blob/main/docs/Tinyman%20AMM%20V2%20Protocol%20Specification.pdf)\
+**Smart Contracts on GitHub Repo:** [**Tinyman Github**](https://github.com/tinymanorg/tinyman-amm-contracts-v2/tree/main/contracts)****\
+****\
+****\
+**Website**: [https://tinyman.org/](https://tinyman.org/)****\
 **Web** **App**: [https://app.tinyman.org](https://app.tinyman.org)\
 **Github**: [https://github.com/tinymanorg](https://github.com/tinymanorg)\
 **Twittter**: [@tinymanorg](https://twitter.com/tinymanorg)

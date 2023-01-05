@@ -1,20 +1,15 @@
 ---
-description: The Tinyman Docs
+description: The Tinyman V2 docs
 ---
 
-# Overview
+# Tinyman V2 Overview
 
-[Tinyman](https://tinyman.org/) is a next-generation decentralized AMM on the Algorand blockchain.
+[Tinyman](https://tinyman.org/) is a next-generation decentralized Automated Market Maker (AMM) on the Algorand blockchain.
 
 {% hint style="info" %}
-Tinyman is live on Algorand Mainnet. See [app.tinyman.org](https://app.tinyman.org)
+Tinyman is live on Algorand Mainnet. See [app.tinyman.org](https://app.tinyman.org)****
 {% endhint %}
 
-Tinyman announced the AMM v2.0 protocol. Please refer to the links below for more details:\
-\
-**Blog about V2.0 Protocol:** [**Tinyman Medium**](https://medium.com/@tinymanorg/tinyman-amm-v2-0-protocol-201e0f32f58d) **** \
-**Tinyman AMM V2.0 Protocol Specification:** [**Tinyman GitHub**](https://github.com/tinymanorg/tinyman-amm-contracts-v2/blob/main/docs/Tinyman%20AMM%20V2%20Protocol%20Specification.pdf)\
-**Smart Contracts on GitHub Repo:** [**Tinyman Github**](https://github.com/tinymanorg/tinyman-amm-contracts-v2/tree/main/contracts)****\
 ****\
 ****\
 **Website**: [https://tinyman.org/](https://tinyman.org/)****\
@@ -22,31 +17,38 @@ Tinyman announced the AMM v2.0 protocol. Please refer to the links below for mor
 **Github**: [https://github.com/tinymanorg](https://github.com/tinymanorg)\
 **Twittter**: [@tinymanorg](https://twitter.com/tinymanorg)
 
-This documentation describes the [design](design-doc.md) of the system, provides an explanation of the [core concepts](faq.md), and documents the technical details to enable integration with the protocol.
+This documentation describes the [design](protocol-specification/) of the system, provides an explanation of the [core concepts](faq/), and documents the technical details to enable integration with the protocol.
 
-{% content-ref url="faq.md" %}
-[faq.md](faq.md)
+
+
+{% content-ref url="about-tinyman.md" %}
+[about-tinyman.md](about-tinyman.md)
 {% endcontent-ref %}
 
-{% content-ref url="design-doc.md" %}
-[design-doc.md](design-doc.md)
+{% content-ref url="protocol-specification/" %}
+[protocol-specification](protocol-specification/)
 {% endcontent-ref %}
 
-{% content-ref url="integration/transactions/" %}
-[transactions](integration/transactions/)
+{% content-ref url="permissioned-methods/" %}
+[permissioned-methods](permissioned-methods/)
 {% endcontent-ref %}
 
-{% content-ref url="contracts.md" %}
-[contracts.md](contracts.md)
+{% content-ref url="faq/" %}
+[faq](faq/)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="protocol-specification/fees.md" %}
+[fees.md](protocol-specification/fees.md)
 {% endcontent-ref %}
 
-{% content-ref url="tinyman-testnet.md" %}
-[tinyman-testnet.md](tinyman-testnet.md)
+{% content-ref url="formulae.md" %}
+[formulae.md](formulae.md)
 {% endcontent-ref %}
 
+{% content-ref url="disclaimer.md" %}
+[disclaimer.md](disclaimer.md)
+{% endcontent-ref %}
 
-
+{% content-ref url="audits-and-security.md" %}
+[audits-and-security.md](audits-and-security.md)
+{% endcontent-ref %}

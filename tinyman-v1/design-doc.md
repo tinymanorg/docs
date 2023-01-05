@@ -42,7 +42,7 @@ Liquidity Pools are implemented as contract accounts controlled by LogicSignatur
 
 The Validator app is deployed to the network by the Tinyman team. The Pool contract accounts are created from the Pool LogicSig template by the first Pooler who wishes to provide liquidity.
 
-![System Overview](.gitbook/assets/overview.png)
+![System Overview](../.gitbook/assets/overview.png)
 
 #### Validator App <a href="#docs-internal-guid-b18fd459-7fff-aa47-087b-2bcfdededbc5" id="docs-internal-guid-b18fd459-7fff-aa47-087b-2bcfdededbc5"></a>
 
@@ -220,7 +220,7 @@ It is expected that there will be highly concurrent use of the Pools so the Pool
 
 To handle this issue the Pool supports a form of slippage tolerance in Mint, Burn and Swap operations. The user specifies the minimum amount they expect to receive in the asset out transfer. The contract allows the transaction group to succeed if this can be satisfied but it also calculates and records any excess asset that is owed to the user in a fair trading scenario. This excess is stored and can be redeemed with a subsequent Redeem operation.
 
-![](.gitbook/assets/index.png)
+![](../.gitbook/assets/index.png)
 
 #### Excess and Outstanding Amounts
 

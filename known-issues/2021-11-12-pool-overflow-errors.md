@@ -1,7 +1,7 @@
 # 2021-11-12 - Pool overflow errors
 
 {% hint style="warning" %}
-This issue applies only to a previous version of the contracts ([V1.0](../contracts.md#version-1.0))
+This issue applies only to a previous version of the contracts ([V1.0](../tinyman-v1/contracts.md#version-1.0))
 {% endhint %}
 
 ### The Problem

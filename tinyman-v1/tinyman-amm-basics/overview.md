@@ -1,8 +1,8 @@
-# Overview
+# Farming
 
 #### Overview <a href="#docs-internal-guid-cc253a8b-7fff-e763-4b36-c841dab7a1c0" id="docs-internal-guid-cc253a8b-7fff-e763-4b36-c841dab7a1c0"></a>
 
-* The concept of the staking program is one of the core elements of DeFi, especially AMM platforms.
+* The concept of the farming (staking) program is one of the core elements of DeFi, especially AMM platforms.
 * Staking is pretty similar to Liquidity Provision, but also it allows Poolers to get “extra” rewards by a staking process.
 * Poolers that agree to keep their liquidity in pre-determined Tinyman pools for a “certain amount of time”, will be eligible to earn rewards in addition to fees.&#x20;
 * Tinyman will support this functionality by listing staking opportunities for those certain pools, enabling Poolers to commit to a staking program, track commitment activities, and distribute rewards on behalf of the program manager.
@@ -49,10 +49,10 @@
 
 #### What are the risks? <a href="#docs-internal-guid-d45df23a-7fff-7bd0-e94e-36d8f2749715" id="docs-internal-guid-d45df23a-7fff-7bd0-e94e-36d8f2749715"></a>
 
-* There are no additional risks by participating in the staking program because users' pool tokens never leave their account.
+* There are no additional risks in participating in the staking program because users' pool tokens never leave their accounts.
 * The usual risks of providing liquidity to AMM pools apply as always.
 
-#### What is the commitment transaction ?
+#### What is the commitment transaction?
 
 * The commitment transaction is an Application Call that records the users' commitment on-chain if it is valid and meets the requirements of the program.
 * As with all Algorand Application Call transactions, it cannot transfer users' funds or take authority of users' accounts.

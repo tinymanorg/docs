@@ -2,7 +2,7 @@
 
 Source code on Github: [https://github.com/tinymanorg/tinyman-contracts-v1](https://github.com/tinymanorg/tinyman-contracts-v1)
 
-Audit Report by [Runtime Verification](http://runtimeverification.com): [https://github.com/runtimeverification/publications/blob/main/reports/smart-contracts/Tinyman.pdf](https://github.com/runtimeverification/publications/blob/main/reports/smart-contracts/Tinyman.pdf)
+Audit Report by [Runtime Verification](http://runtimeverification.com/): [https://github.com/runtimeverification/publications/blob/main/reports/smart-contracts/Tinyman.pdf](https://github.com/runtimeverification/publications/blob/main/reports/smart-contracts/Tinyman.pdf)
 
 ### Overview
 

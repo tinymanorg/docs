@@ -12,10 +12,10 @@ We do welcome feedback from all users of Tinyman Testnet/Mainnet so please let u
 
 _Some of these steps may not be necessary if you have previously used Algorand Testnet._
 
-1. Create/import an Algorand account to [MyAlgo](https://wallet.myalgo.com) wallet.
+1. Create/import an Algorand account to [MyAlgo](https://wallet.myalgo.com/) wallet.
 2. Switch the MyAlgoWallet UI from Mainnet to Testnet in the top right corner.
-3. Check your Algo balance and if necessary add some Testnet Algo to your account from [https://dispenser.testnet.aws.algodev.network/](https://dispenser.testnet.aws.algodev.network)
-4. Opt-In to the Tiny USDC asset by clicking **Add Asset** ![](<.gitbook/assets/Screenshot 2021-08-06 at 16.56.05.png>)&#x20;
+3. Check your Algo balance and if necessary add some Testnet Algo to your account from [https://dispenser.testnet.aws.algodev.network/](https://dispenser.testnet.aws.algodev.network/)
+4. Opt-In to the Tiny USDC asset by clicking **Add Asset** <img src="../.gitbook/assets/Screenshot 2021-08-06 at 16.56.05.png" alt="" data-size="original">&#x20;
 5. Enter the ID 21582668 and sign the transaction.
 6. Within a minute you will receive some Tiny USDC in your account. You are welcome.
 7. Go to [https://testnet.tinyman.org](https://testnet.tinyman.org) and click **Connect to a Wallet**.

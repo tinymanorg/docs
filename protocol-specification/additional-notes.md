@@ -30,5 +30,5 @@ Operation transaction groups may also be created as inner transactions from with
 
 Clients can discover the existence of pools in either of two ways;
 
-1. Every pool account is opted into the Tinyman App. Any account opted into this app is a valid pool. A list of pool accounts can therefore be retrieved from an Algorand Indexer or other block follower. The [local state](../v2-integration/protocol-methods/state-data.md#local-state-pool) of these accounts gives the details of the pool.
+1. Every pool account is opted into the Tinyman App. Any account opted into this app is a valid pool. A list of pool accounts can therefore be retrieved from an Algorand Indexer or other block follower. The [local state](../v2-integration/state-data.md#local-state-pool) of these accounts gives the details of the pool.
 2. The pool account address can be computed from the LogicSig template.

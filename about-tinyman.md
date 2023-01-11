@@ -19,7 +19,7 @@ Tinyman is a non-custodian decentralized exchange on Algorand that works with th
 
 Tinyman AMM v2 protocol was developed and deployed by the Tinyman team on the Algorand blockchain.
 
-Tinyman contracts are coded in TEAL 6 and TEALISH (an internally developed programming language). Tinyman v2 is designed to work with Algorand Virtual Machine (AVM). See the Tinyman contracts here
+Tinyman [contracts](contracts.md) are written in [Tealish](https://github.com/tinymanorg/tealish) for AVM V7.&#x20;
 
 The Tinyman development team chose Algorand as the foundation for their project due to its compatibility with Tinyman's values and advanced technological capabilities. Algorand's commitment to scalability, security, and decentralization, as well as its ability to handle a high volume of transactions efficiently, made it an ideal choice for the team.
 

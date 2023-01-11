@@ -38,10 +38,10 @@ Where user\_address is specified the same address must be used for all instances
 [flash-swap.md](flash-swap.md)
 {% endcontent-ref %}
 
-{% content-ref url="state-data.md" %}
-[state-data.md](state-data.md)
+{% content-ref url="../state-data.md" %}
+[state-data.md](../state-data.md)
 {% endcontent-ref %}
 
-{% content-ref url="oracle-data.md" %}
-[oracle-data.md](oracle-data.md)
+{% content-ref url="../oracle-data.md" %}
+[oracle-data.md](../oracle-data.md)
 {% endcontent-ref %}

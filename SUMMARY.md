@@ -21,6 +21,7 @@
   * [Related Non-Permissioned Methods](permissioned-methods/related-non-permissioned-methods.md)
 * [Formulae](formulae.md)
 * [Disclaimer](disclaimer.md)
+* [Contracts](contracts.md)
 * [Audits & Security](audits-and-security.md)
 
 ## V2 Integration
@@ -33,9 +34,9 @@
   * [Swap](v2-integration/protocol-methods/swap.md)
   * [Flash Loan](v2-integration/protocol-methods/flash-loan.md)
   * [Flash Swap](v2-integration/protocol-methods/flash-swap.md)
-  * [State Data](v2-integration/protocol-methods/state-data.md)
-  * [Oracle Data](v2-integration/protocol-methods/oracle-data.md)
-  * [Calculating Quotes](v2-integration/protocol-methods/calculating-quotes.md)
+* [State Data](v2-integration/state-data.md)
+* [Oracle Data](v2-integration/oracle-data.md)
+* [Calculating Quotes](v2-integration/calculating-quotes.md)
 * [Official SDKs](v2-integration/official-sdks.md)
 
 ## Tinyman V1

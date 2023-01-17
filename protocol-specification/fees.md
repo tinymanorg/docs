@@ -2,7 +2,7 @@
 
 Tinyman charges fees on swaps, loans and internal swap operations. A portion of this fee is allocated to the protocol (Tinyman) and the remainder is allocated to the liquidity providers by adding to the pool reserves.
 
-The fee rate and the protocol fee fraction portion are configurable parameters on each pool. The total fee rate can be set in the range from 0.01% to 1% (10 to 100 basis points), the protocol fee fraction can be set as 1/n in the range from 1/3 to 1/10. The default fee rate is %0.3 and protocol fee fraction is 1/6 (0.05% of total input). These defaults are the same as the Tinyman V1.
+The fee rate and the protocol fee fraction portion are configurable parameters on each pool. The total fee rate can be set in the range from 0.01% to 1% (1 to 100 basis points), the protocol fee fraction can be set as 1/n in the range from 1/3 to 1/10. The default fee rate is %0.3 and protocol fee fraction is 1/6 (0.05% of total input). These defaults are the same as the Tinyman V1.
 
 Pools have a single fee setting and the same rate is applied to all swap, loan and internal swap operations.
 

@@ -7,12 +7,12 @@ description: The Tinyman V2 docs
 [Tinyman](https://tinyman.org/) is a next-generation decentralized Automated Market Maker (AMM) on the Algorand blockchain.
 
 {% hint style="info" %}
-Tinyman is live on Algorand Mainnet. See [app.tinyman.org](https://app.tinyman.org)****
+Tinyman is live on Algorand Mainnet. See [app.tinyman.org](https://app.tinyman.org)
 {% endhint %}
 
-****\
-****\
-**Website**: [https://tinyman.org/](https://tinyman.org/)****\
+\
+\
+**Website**: [https://tinyman.org/](https://tinyman.org/)\
 **Web** **App**: [https://app.tinyman.org](https://app.tinyman.org)\
 **Github**: [https://github.com/tinymanorg](https://github.com/tinymanorg)\
 **Twittter**: [@tinymanorg](https://twitter.com/tinymanorg)
@@ -43,6 +43,10 @@ This documentation describes the [design](protocol-specification/) of the system
 
 {% content-ref url="formulae.md" %}
 [formulae.md](formulae.md)
+{% endcontent-ref %}
+
+{% content-ref url="swap-router/" %}
+[swap-router](swap-router/)
 {% endcontent-ref %}
 
 {% content-ref url="disclaimer.md" %}

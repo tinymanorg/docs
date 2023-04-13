@@ -58,7 +58,7 @@ Fee: (3 \* min\_fee)
 #### **Inner Transactions**
 
 **1. AssetTransfer/Pay (Change):**\
-****_**Change is possible, if the swap mode is fixed-output.**_\
+_**Change is possible, if the swap mode is fixed-output.**_\
 _**This transaction is issued, If there is a change.**_
 
 Sender: pool\_address\

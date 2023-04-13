@@ -7,7 +7,7 @@
     * [Pool Creation](protocol-specification/pool/pool-creation.md)
     * [Adding Liquidity](protocol-specification/pool/adding-liquidity.md)
     * [Removing Liquidity](protocol-specification/pool/removing-liquidity.md)
-  * [Swapping](protocol-specification/swapping.md)
+  * [Swap](protocol-specification/swap.md)
   * [Fees](protocol-specification/fees.md)
   * [Flash Loan](protocol-specification/flash-loan.md)
   * [Flash Swap](protocol-specification/flash-swap.md)
@@ -38,6 +38,11 @@
 * [Oracle Data](v2-integration/oracle-data.md)
 * [Calculating Quotes](v2-integration/calculating-quotes.md)
 * [Official SDKs](v2-integration/official-sdks.md)
+
+***
+
+* [Swap Router](swap-router/README.md)
+  * [Transaction Specification](swap-router/transaction-specification.md)
 
 ## Tinyman V1
 

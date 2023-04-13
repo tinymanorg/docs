@@ -190,7 +190,7 @@ CoinMarketCap defines impermanent loss as “the temporary loss of funds occasio
 If you'd like to learn more about impermanent loss, the following articles may be useful:\
 [https://pintail.medium.com/understanding-uniswap-returns-cc593f3499ef](https://pintail.medium.com/understanding-uniswap-returns-cc593f3499ef)\
 [https://blog.bancor.network/beginners-guide-to-getting-rekt-by-impermanent-loss-7c9510cb2f22](https://blog.bancor.network/beginners-guide-to-getting-rekt-by-impermanent-loss-7c9510cb2f22) \
-****
+
 
 ## Does Tinyman earn commission when I add Algo with Moonpay?
 

@@ -58,3 +58,11 @@ If the payment is 3000 AssetA, the fee is 3000\*fee rate AssetA.
 **B. Pay in multiple assets**
 
 If the payment is 1000 AssetA and 2000 AssetB, the fees are 1000\*fee rate AssetA and 2000\*fee rate AssetB.
+
+## **Swap Router Fees**
+
+The swap router doesn’t charge additional fees. Tinyman AMM V2 fee policy applies to swaps.
+
+Using the swap router requires 3 more transactions than 2 swaps and 6 more transactions than a single swap. API is aware of this difference and makes suggestions accordingly. The total transaction fee is converted from Algo to input asset amount using the price information, calculated by pool reserves. However, if this conversion is impossible, the transaction fee isn’t included in the calculation.
+
+All transaction fees must be paid by the sender of any of the outer transactions. The inner transaction fees are not paid by the swap router app account.

@@ -8,8 +8,8 @@ Tinyman AMM V2 is a Constant Product Market Maker. It is mathematically similar 
 [pool](pool/)
 {% endcontent-ref %}
 
-{% content-ref url="swapping.md" %}
-[swapping.md](swapping.md)
+{% content-ref url="swap.md" %}
+[swap.md](swap.md)
 {% endcontent-ref %}
 
 {% content-ref url="fees.md" %}

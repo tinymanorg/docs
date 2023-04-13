@@ -22,16 +22,16 @@ Algorand transaction fees: 5 \* min fee = 0.005 Algo
 There are no extra fees charged by Tinyman for Minting or Burning.
 
 **Adding Initial liquidity:**\
-****Algorand transaction fees: 4 \* min fee = 0.004 Algo
+Algorand transaction fees: 4 \* min fee = 0.004 Algo
 
 **Adding subsequent liquidity for flexible:**\
-****Algorand transaction fees: 5 \* min fee = 0.005 Algo
+Algorand transaction fees: 5 \* min fee = 0.005 Algo
 
 **Adding subsequent liquidity for single asset:**\
-****Algorand transaction fees: 4 \* min fee = 0.004 Algo
+Algorand transaction fees: 4 \* min fee = 0.004 Algo
 
 **Removing liquidity for both multiple assets and single asset:**\
-****Algorand transaction fees: 4 \* min fee = 0.004 Algo
+Algorand transaction fees: 4 \* min fee = 0.004 Algo
 
 ## Pool Creation (Bootstrap)
 

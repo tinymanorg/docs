@@ -292,6 +292,14 @@ Tinyman does not verify any assets and does not play a role in the verification 
 
 Please note that Algoexplorer.io also has a separate verification program that is not connected to Pera Wallet or the information displayed on Tinyman.
 
+### What does clawback mean in Algorand?
+
+Assets on Algorand can optionally have “clawback” functionality enabled. This option can be enabled only when creating the asset. Once enabled/disabled, it becomes a feature of the asset and cannot be changed back. This allows the creator (or another delegated address) to remove assets from a holder’s account without their permission. This feature has genuine use cases but it may also be exploited by bad actors. Tinyman does not prevent creating or listing pools with clawback-enabled assets because some of the most commonly used assets have this feature enabled (e.g. USDt).&#x20;
+
+Tinyman informs users if clawback is enabled with a badge on the asset. Users of the platform should use this information and consider the additional trust requirements in this situation. Users should be especially wary of providing liquidity to pools with these assets if they do not trust the asset creators. Tinyman Pools, as Algorand Accounts, can be subjected to clawback of their assets. If this happens the pool no longer maintains the correct ratio of assets and the internal accounting of pool reserves and pool price is out of sync with the account. This can cause transactions on the pool to fail. Transactions will continue to fail until the pool asset balances are returned to their correct levels. There is nothing the Tinyman team can do in this scenario and there is a real risk of loss of funds.&#x20;
+
+The clawback usage warning will remain on a pool even if the pool has been returned to its correct levels and functions correctly. This serves as an additional warning to the user that the pool is at risk of malicious actions by the asset creator.
+
 ## Tinyman
 
 ### Does Tinyman store individual user information?

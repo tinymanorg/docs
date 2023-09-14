@@ -16,6 +16,8 @@ description: >-
 
 &#x20;       **Note**: Please ensure this address is opted into the swap input and output assets you specified.
 
+<figure><img src="../.gitbook/assets/Screenshot 2023-09-14 at 18.22.33.png" alt=""><figcaption><p>Swap Settings</p></figcaption></figure>
+
 ### Styling
 
 You can modify the color palette and appearance of your Widget.&#x20;
@@ -24,6 +26,8 @@ You can modify the color palette and appearance of your Widget.&#x20;
 2. **Swap container** (Dark/Light theme, button background, button text, etc.)
 3. **Custom title**
 4. **Border radius** (Large, Medium, Small, None)
+
+<figure><img src="../.gitbook/assets/Screenshot 2023-09-14 at 18.23.30.png" alt=""><figcaption><p>Styling</p></figcaption></figure>
 
 \
 \

@@ -30,7 +30,7 @@ Parent Signer, is a more advanced option and aims to use the existing Parent App
 1. First, install the SDK with npm:&#x20;
 
 ```
-npm install @tinymanorg/tin yman-swap-widget-sdk
+npm install @tinymanorg/tinyman-swap-widget-sdk
 ```
 
 2. (optional) To get the function parameters easily, you can copy the `Parameters Object` on the export page.&#x20;

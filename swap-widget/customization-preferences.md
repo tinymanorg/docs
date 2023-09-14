@@ -1,10 +1,12 @@
 ---
 description: >-
-  You can use our official configuration page(URL) to customize the widget and
-  export the parameters for integration.
+  You can use our official configuration page to customize the widget and export
+  the parameters for integration.
 ---
 
 # Customization Preferences
+
+### Swap Widget - Configuration Page: [https://widget.tinyman.org](https://widget.tinyman.org)
 
 ### Swap Settings
 

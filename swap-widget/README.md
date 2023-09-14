@@ -7,7 +7,7 @@ description: >-
 
 # Swap Widget
 
-Swap Widget allows users to make swaps inside the main application (without switching the app) using the Tinyman pool seamlessly and securely. Tinyman Swap Router will ensure that users can make swaps at the best price, similar to the Tinyman Web Application.
+[Swap Widget](https://widget.tinyman.org) allows users to make swaps inside the main application (without switching the app) using the Tinyman pool seamlessly and securely. Tinyman Swap Router will ensure that users can make swaps at the best price, similar to the Tinyman Web Application.
 
 <figure><img src="../.gitbook/assets/Screenshot 2023-09-14 at 12.36.57.png" alt="" width="375"><figcaption><p>Swap Widget Example</p></figcaption></figure>
 

@@ -41,12 +41,12 @@
 
 ***
 
-* [Lending Pools](lending-pools.md)
 * [Swap Router](swap-router/README.md)
   * [Transaction Specification](swap-router/transaction-specification.md)
 * [Swap Widget](swap-widget/README.md)
   * [Customization Preferences](swap-widget/customization-preferences.md)
   * [How to export your Widget](swap-widget/how-to-export-your-widget.md)
+* [Lending Pools](lending-pools.md)
 
 ## Tinyman V1
 

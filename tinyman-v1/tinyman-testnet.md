@@ -57,5 +57,5 @@ Please email us at security@tinyman.org with the details of any possible vulnera
 ### Where are the contracts?
 
 For technical users wishing to create an integration or examine the transactions:\
-The stateful [Validator App](design-doc.md#docs-internal-guid-b18fd459-7fff-aa47-087b-2bcfdededbc5) Id is currently [62368684](https://testnet.algoexplorer.io/application/62368684).\
+The stateful [Validator App](design-doc.md#docs-internal-guid-b18fd459-7fff-aa47-087b-2bcfdededbc5) Id is currently [62368684](https://testnet.explorer.perawallet.app/application/62368684/).\
 See [Contracts](contracts.md) for more details including links to the annotated source and audits.

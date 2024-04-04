@@ -22,8 +22,8 @@ The dollar value of LP tokens may not remain the same after migrating to V2 pool
 
 If a user is creating a new pool, pool creation fees and locked LP tokens will decrease the funds being added.&#x20;
 
-If the user is adding liquidity to an existing V2 pool, a price difference between V1 and V2 pools is expected. The process of adding liquidity to an existing V2 pool while adjusting the liquidity to match the ratio of assets in the pool, nown as flexible liquidity adding, will incur a swap fee and may cause a fluctuation in funds.
+If the user is adding liquidity to an existing V2 pool, a price difference between V1 and V2 pools is expected. The process of adding liquidity to an existing V2 pool while adjusting the liquidity to match the ratio of assets in the pool, known as flexible liquidity adding, will incur a swap fee and may cause a fluctuation in funds.
 
 ### I see a different APR or no APR for v2 pools, why?
 
-APR and APY values for V1 and V2 pools may differ because Tinyman calculates these values based on 1-day and 7-day trade volumes for each individual pool. Additionally, APR/APY values for newly created V2 pools, in particular, may be low or nonexistent in the early days of Tinyman V2.\
+APR and APY values for V1 and V2 pools may differ because Tinyman calculates these values based on 1-day and 7-day trade volumes for each individual pool. Additionally, APR/APY values for newly created V2 pools, in particular, may be low or nonexistent in the early days of Tinyman V2.

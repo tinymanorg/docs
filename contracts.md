@@ -2,9 +2,9 @@
 
 Source code on Github: [https://github.com/tinymanorg/tinyman-amm-contracts-v2](https://github.com/tinymanorg/tinyman-amm-contracts-v2)
 
-Mainnet Validator App ID: [1002541853](https://algoexplorer.io/application/1002541853)
+Mainnet Validator App ID: [1002541853](https://explorer.perawallet.app/application/1002541853/)
 
-Testnet Validator App ID: [148607000](https://testnet.algoexplorer.io/application/148607000)
+Testnet Validator App ID: [148607000](https://testnet.explorer.perawallet.app/application/148607000/)
 
 ### Overview
 

@@ -31,17 +31,17 @@ The Tinyman contracts consist of a single stateful smart contract (the **Validat
 
 Source Code: [https://github.com/tinymanorg/tinyman-contracts-v1/tree/13acadd1a619d0fcafadd6f6c489a906bf347484](https://github.com/tinymanorg/tinyman-contracts-v1/tree/13acadd1a619d0fcafadd6f6c489a906bf347484)
 
-Mainnet Validator App ID: [552635992](https://algoexplorer.io/application/552635992)
+Mainnet Validator App ID: [552635992](https://explorer.perawallet.app/application/552635992/)
 
-Testnet Validator App ID: [62368684](https://testnet.algoexplorer.io/application/62368684)
+Testnet Validator App ID: [62368684](https://testnet.explorer.perawallet.app/application/62368684/)
 
 ### Version 1.0
 
 Source Code: [https://github.com/tinymanorg/tinyman-contracts-v1/tree/d1090f16d755b3898d2b8e03a2efa86133c30346](https://github.com/tinymanorg/tinyman-contracts-v1/tree/d1090f16d755b3898d2b8e03a2efa86133c30346)
 
-Mainnet Validator App ID: [350338509](https://algoexplorer.io/application/350338509)
+Mainnet Validator App ID: [350338509](https://explorer.perawallet.app/application/350338509/)
 
-Testnet Validator App ID: [21580889](https://testnet.algoexplorer.io/application/21580889)
+Testnet Validator App ID: [21580889](https://testnet.explorer.perawallet.app/application/21580889/)
 
 
 

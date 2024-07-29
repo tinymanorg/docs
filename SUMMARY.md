@@ -90,3 +90,4 @@
 * [TINY Token Details](token-and-governance/tiny-token-details.md)
 * [Governance Details](token-and-governance/governance-details/README.md)
   * [Overview](token-and-governance/governance-details/overview.md)
+  * [Governance Vault](token-and-governance/governance-details/governance-vault.md)

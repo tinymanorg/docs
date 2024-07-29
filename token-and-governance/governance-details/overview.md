@@ -1,8 +1,8 @@
 # Overview
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Tinyman Governance Workflow</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Tinyman Governance Workflow</p></figcaption></figure>
 
-## Governance Forum:&#x20;
+## Governance Forum
 
 The Tinyman Governance Forum is where our community shapes the future of [Tinyman](https://tinyman.org/), embracing decentralization and effective governance. Here, every community member can propose, discuss, and evolve ideas in a structured, transparent environment.
 
@@ -10,7 +10,7 @@ The forum is designed as the starting point for all governance activities. You�
 
 
 
-## Governance Forum Process:
+## Governance Forum Process
 
 The forum is your first step in the governance process, where you can engage with the community to refine ideas, gather initial feedback, and join voting.
 
@@ -20,7 +20,7 @@ The forum is your first step in the governance process, where you can engage wit
 
 
 
-## On-Chain Voting Process:
+## On-Chain Voting Process
 
 * **On-Chain Submission**: Successful proposals are submitted for on-chain voting on [https://tinyman.org/#/governance/proposals](https://tinyman.org/#/governance/proposals), where they undergo a structured process that includes a waiting period and a voting period. To initiate a proposal, the proposer must hold 450K $TINY Power. Proposals that do not meet the forum approval criteria will be removed from the Tinyman interface.
 * **​​Waiting Period**: Once on-chain, proposals enter a waiting period (approximately 2 days) to ensure all community members are informed.

@@ -29,3 +29,19 @@ description: >-
 
 
 
+## Token Generation Event
+
+13.25% of the Token Supply will be in circulation on day 1. (\~132.5M $TINY)
+
+* 30,050M – Investors (22.68% of initial allocation)
+* 32,925M – Tinyman Treasury (24.85% of initial allocation)
+* 69,500M – Community Airdrop (52.46% of initial allocation)
+
+_Note: Investors or Tinyman Treasury will not be able to vest any tokens within one year of the Token Generation Event. The only way new tokens will be released into circulation for the first 12 months is through community rewards: Governance Rewards and Liquidity Mining Rewards._
+
+\
+\
+
+
+
+

@@ -24,6 +24,15 @@
 * [Contracts](contracts.md)
 * [Audits & Security](audits-and-security.md)
 
+## Token and Governance
+
+* [TINY Token Details](token-and-governance/tiny-token-details.md)
+* [Governance Details](token-and-governance/governance-details/README.md)
+  * [Overview](token-and-governance/governance-details/overview.md)
+  * [Governance Vault](token-and-governance/governance-details/governance-vault.md)
+  * [Governance Rewards](token-and-governance/governance-details/governance-rewards.md)
+  * [Governance Process](token-and-governance/governance-details/governance-process.md)
+
 ## V2 Integration
 
 * [Protocol Methods](v2-integration/protocol-methods/README.md)
@@ -84,12 +93,3 @@
 * [Tinyman Presentations](tinyman-presentations.md)
 * [Known Issues](known-issues/README.md)
   * [2021-11-12 - Pool overflow errors](known-issues/2021-11-12-pool-overflow-errors.md)
-
-## Token and Governance
-
-* [TINY Token Details](token-and-governance/tiny-token-details.md)
-* [Governance Details](token-and-governance/governance-details/README.md)
-  * [Overview](token-and-governance/governance-details/overview.md)
-  * [Governance Vault](token-and-governance/governance-details/governance-vault.md)
-  * [Governance Rewards](token-and-governance/governance-details/governance-rewards.md)
-  * [Governance Process](token-and-governance/governance-details/governance-process.md)

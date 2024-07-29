@@ -4,7 +4,7 @@
 
 Tinyman Governance Vault is a smart contract that holds and manages the TINY tokens being staked for governance. When a user stakes their TINY tokens, they are transferred to the governance vault contract. The governance vault is responsible for managing the lockup period, participating in governance proposals, and continuous stake rewards. The longer a user stakes their tokens, the more voting power they accumulate. However, there is also a time decay factor. As the unlock period gets closer, the voting power diminishes.
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>Governance Vault</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Governance Vault</p></figcaption></figure>
 
 Locking Mechanism\
 
@@ -66,7 +66,7 @@ Locking Mechanism\
   * The locking duration also directly increases TINY Power.
   * As the unlock period gets closer, the TINY Power diminishes gradually.
 
-<figure><img src="broken-reference" alt=""><figcaption><p>Tiny Power (over time)</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>Tiny Power (over time)</p></figcaption></figure>
 
 TINY Power directly affects the following:
 

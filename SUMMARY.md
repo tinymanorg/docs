@@ -91,3 +91,4 @@
 * [Governance Details](token-and-governance/governance-details/README.md)
   * [Overview](token-and-governance/governance-details/overview.md)
   * [Governance Vault](token-and-governance/governance-details/governance-vault.md)
+  * [Governance Rewards](token-and-governance/governance-details/governance-rewards.md)

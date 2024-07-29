@@ -23,6 +23,8 @@
 * [Disclaimer](disclaimer.md)
 * [Contracts](contracts.md)
 * [Audits & Security](audits-and-security.md)
+* [Token and Governance](token-and-governance/README.md)
+  * [Page 1](token-and-governance/page-1.md)
 
 ## V2 Integration
 

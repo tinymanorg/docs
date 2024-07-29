@@ -8,7 +8,9 @@ description: >-
 
 ## Tokenomics
 
-<table><thead><tr><th>Allocations</th><th data-type="number">Share</th><th data-type="number">Amount</th><th>Details</th></tr></thead><tbody><tr><td>Investors</td><td>null</td><td>null</td><td></td></tr><tr><td></td><td>null</td><td>null</td><td></td></tr><tr><td></td><td>null</td><td>null</td><td></td></tr></tbody></table>
-
 ## Distribution Details
+
+
+
+
 

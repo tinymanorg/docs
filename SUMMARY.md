@@ -84,3 +84,8 @@
 * [Tinyman Presentations](tinyman-presentations.md)
 * [Known Issues](known-issues/README.md)
   * [2021-11-12 - Pool overflow errors](known-issues/2021-11-12-pool-overflow-errors.md)
+
+## Token and Governance
+
+* [TINY Token Details](token-and-governance/tiny-token-details.md)
+* [Governance Details](token-and-governance/governance-details.md)

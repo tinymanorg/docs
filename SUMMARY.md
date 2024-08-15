@@ -32,6 +32,7 @@
   * [Governance Vault](token-and-governance/governance-details/governance-vault.md)
   * [Governance Rewards](token-and-governance/governance-details/governance-rewards.md)
   * [Governance Process](token-and-governance/governance-details/governance-process.md)
+  * [TINY Farming](token-and-governance/governance-details/tiny-farming.md)
 
 ## V2 Integration
 

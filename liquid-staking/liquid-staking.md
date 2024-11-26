@@ -41,9 +41,22 @@ When a user swaps ALGO to tALGO, the "stake ALGO" process is applied, staking th
 
 When a user swaps tALGO back to ALGO, the "unstake tALGO" process is applied, unstaking the tALGO and returning the original ALGO.
 
-\
-\
 
 
-\
-\
+
+
+### Implementation Details & Contracts
+
+The contract sources are available to view in the Github repo.
+
+The repo also contains [audit reports](https://github.com/tinymanorg/tinyman-consensus-staking/tree/main/audits) and the [protocol specification](https://github.com/tinymanorg/tinyman-consensus-staking/blob/main/docs/Tinyman_Liquid_Staking_Protocol_Specification.pdf).
+
+Github repo: [https://github.com/tinymanorg/tinyman-consensus-staking](https://github.com/tinymanorg/tinyman-consensus-staking)
+
+### On-Chain Details
+
+tAlgo ASA:  [2537013734](https://lora.algokit.io/mainnet/asset/2537013734)\
+tAlgo App ID: [2537013674](https://lora.algokit.io/mainnet/application/2537013674)
+
+Re-Staking App: [2537022861](https://lora.algokit.io/mainnet/application/2537022861)\
+stAlgo ASA: [2537023208](https://lora.algokit.io/mainnet/asset/2537023208)

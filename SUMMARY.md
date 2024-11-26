@@ -56,8 +56,11 @@
 * [Swap Widget](swap-widget/README.md)
   * [Customization Preferences](swap-widget/customization-preferences.md)
   * [How to export your Widget](swap-widget/how-to-export-your-widget.md)
-* [Liquid Staking](liquid-staking.md)
 * [Lending Pools](lending-pools.md)
+
+## Liquid Staking
+
+* [Liquid Staking](liquid-staking/liquid-staking.md)
 
 ## Tinyman V1
 

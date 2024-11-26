@@ -27,19 +27,23 @@ tALGO can be redeemed for ALGO at any time, with no lock-up periods or penalties
 
 Users have the option to re-stake tALGO. Upon re-staking, stALGO is issued at a 1:1 ratio. stALGO represents the re-staked tALGO and allows for the earning of additional TINY rewards. While stALGO remains in the user's wallet, it cannot be transferred or traded. Holding stALGO enables continuous accumulation of TINY rewards, which can be claimed at any time from the re-staking page—unstaking is not required to access these rewards. Re-staking provides an opportunity to generate extra yield without active management.
 
-#### Re-Staking Requirements
+### Re-Staking Requirements
 
 To re-stake tALGO, a minimum of 2000 TINY power is required, which can be earned by locking TINY tokens in governance. Locking TINY qualifies users as Tinyman governors and provides various benefits, including additional TINY rewards and voting rights. For further details, please refer to this [link](https://docs.tinyman.org/token-and-governance/governance-details/governance-vault).
 
 ### Unstaking stALGO
 
-stALGO can be unstaked at any time and redeemed for tALGO on a 1:1 basis. Any accrued TINY rewards can be claimed at any time. A minimum of 2000 TINY power is required in order to claim TINY.&#x20;
+stALGO can be unstaked at any time and redeemed for tALGO on a 1:1 basis. Any accrued TINY rewards can be claimed at any time. A minimum of 2000 TINY power is required in order to claim TINY rewards. &#x20;
 
-**Swapping ALGO**
+### Swapping ALGO
 
 When a user swaps ALGO to tALGO, the "stake ALGO" process is applied, staking the ALGO and issuing tALGO.
 
 When a user swaps tALGO back to ALGO, the "unstake tALGO" process is applied, unstaking the tALGO and returning the original ALGO.
+
+\
+\
+
 
 \
 \

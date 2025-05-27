@@ -57,6 +57,7 @@
   * [Customization Preferences](swap-widget/customization-preferences.md)
   * [How to export your Widget](swap-widget/how-to-export-your-widget.md)
 * [Lending Pools](lending-pools.md)
+* [Trigger Orders & Recurring Orders ](trigger-orders-and-recurring-orders.md)
 
 ## Liquid Staking
 

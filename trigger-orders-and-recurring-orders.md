@@ -85,9 +85,9 @@ Users can define:
 
 #### Minimum Order Amount
 
-* Each recurring execution must be at least $10 USD
-* The total recurring order value must be at least $20 USD
-* Example: If a user wants to schedule 5 recurring orders, they must commit at least $50 (5 x $10)
+* Each recurring execution must be at least $1 USD
+* The total recurring order value must be at least $2 USD
+* Example: If a user wants to schedule 5 recurring orders, they must commit at least $5 (5 x $1)
 
 #### Fees
 

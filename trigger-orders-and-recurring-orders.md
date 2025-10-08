@@ -38,7 +38,7 @@ If the price condition is not met before the expiration, the order is canceled a
 #### Fees
 
 * A 0.15% fee is charged when a Trigger Order is successfully executed.
-* TINY governors enjoy a discounted fee of 0,1%. In order to be eligible, TINY governors need to hold a TINY power of at least 2000
+* TINY governors enjoy a discounted fee of 0,1%. In order to be eligible, TINY governors need to hold a TINY power of at least 5000
 
 #### Execution Flow
 
@@ -85,14 +85,14 @@ Users can define:
 
 #### Minimum Order Amount
 
-* Each recurring execution must be at least $1 USD
-* The total recurring order value must be at least $2 USD
-* Example: If a user wants to schedule 5 recurring orders, they must commit at least $5 (5 x $1)
+* Each recurring execution must be at least $5 USD
+* The total recurring order value must be at least $10 USD
+* Example: If a user wants to schedule 5 recurring orders, they must commit at least $25 (5 x $5)
 
 #### Fees
 
 * A 0.15% fee is charged when a Recurring Order is successfully executed.
-* TINY governors enjoy a discounted fee of 0,1%. In order to be eligible, TINY governors need to hold a TINY power of at least 2000
+* TINY governors enjoy a discounted fee of 0,1%. In order to be eligible, TINY governors need to hold a TINY power of at least 5000
 
 #### Execution Flow
 
@@ -128,7 +128,7 @@ Tinyman prioritizes community governance. TINY Governors — users who lock TINY
 
 #### Eligibility
 
-* Locking at least 2,000 TINY Power is required for early access
+* Locking at least 5,000 TINY Power is required for early access
 
 #### Additional Governance Benefits
 

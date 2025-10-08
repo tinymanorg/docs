@@ -29,11 +29,11 @@ Users have the option to re-stake tALGO. Upon re-staking, stALGO is issued at a 
 
 ### Re-Staking Requirements
 
-To re-stake tALGO, a minimum of 2000 TINY power is required, which can be earned by locking TINY tokens in governance. Locking TINY qualifies users as Tinyman governors and provides various benefits, including additional TINY rewards and voting rights. For further details, please refer to this [link](https://docs.tinyman.org/token-and-governance/governance-details/governance-vault).
+To re-stake tALGO, a minimum of 5000 TINY power is required, which can be earned by locking TINY tokens in governance. Locking TINY qualifies users as Tinyman governors and provides various benefits, including additional TINY rewards and voting rights. For further details, please refer to this [link](https://docs.tinyman.org/token-and-governance/governance-details/governance-vault).
 
 ### Unstaking stALGO
 
-stALGO can be unstaked at any time and redeemed for tALGO on a 1:1 basis. Any accrued TINY rewards can be claimed at any time. A minimum of 2000 TINY power is required in order to claim TINY rewards. &#x20;
+stALGO can be unstaked at any time and redeemed for tALGO on a 1:1 basis. Any accrued TINY rewards can be claimed at any time. A minimum of 5000 TINY power is required in order to claim TINY rewards. &#x20;
 
 ### Swapping ALGO
 

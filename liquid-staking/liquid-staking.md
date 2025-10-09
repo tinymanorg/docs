@@ -13,7 +13,7 @@ Staking rewards are distributed in ALGO. The total rewards earned per ALGO decre
 
 ### Fee Structure
 
-Tinyman employs a fee structure that automatically deducts a portion of the staking rewards to support the protocol's sustainability. A fee of 3% is applied to the total block rewards before distribution to users. The remaining rewards are added to the tALGO value.&#x20;
+Tinyman employs a fee structure that automatically deducts a portion of the staking rewards to support the protocol's sustainability. A fee of 8% is applied to the total block rewards before distribution to users. The remaining rewards are added to the tALGO value.&#x20;
 
 ### Liquid Staking Process
 
